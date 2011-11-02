@@ -1,0 +1,21 @@
+/**********************************************************************
+ * Developer:   Ezra Velazquez http://ezraezraezra.com
+ * Class:       ITP - Mobile Technology
+ * 
+ * Date:        November 2011
+ *
+ * Title:       SMS Broadcast     http://ezraezraezra.com/smsbroadcast
+ * Description: Organization can broadcast SMS messages to users
+ *				who can opt-in or opt-out of program.
+ *
+ * Tech:        AJAX, CSS, CSS3, HTML, JavaScript, JSON, jQuery, 
+ *              MySQL, PHP, Twilio
+ * Last Update: November 1st, 2011
+ ***********************************************************************/
+ 
+ NOTE: *** 3rd PARTY LIBRARIES HAVE BEEN OMITTED FROM THE PUBLIC REPO ***
+ 
+ Libraries Omitted:  jQuery       http://jquery.com
+                     Twilio       http://twilio.com
+                     jQueryUI     http://jqueryui.com
+                     jQueryMobile http://jquerymobile.com

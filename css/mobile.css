@@ -1,0 +1,15 @@
+/*
+ * Project:     SMS Broadcast
+ * Description: Broadcast an SMS reminder with link to mobile page with more info
+ * Website:     http://ezraezraezra.com/smsbroadcast
+ * 
+ * Author:      Ezra Velazquez
+ * Website:     http://ezraezraezra.com
+ * Date:        November 2011
+ * 
+ */  
+body {
+}
+.mobile_titles {
+	font-weight: bold;
+}
